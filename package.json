@@ -1,0 +1,9 @@
+{
+  "author": "Jeff \"Huey\" Huelsbeck <huey@carpetelam.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "daily-coding-problems",
+  "private": true,
+  "repository": "git@github.com:thisishuey/daily-coding-problems.git",
+  "version": "1.0.0"
+}
