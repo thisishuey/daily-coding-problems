@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-console.log("2019-06-12 Dailing Coding Problem");
+console.log("2019-06-12 Daily Coding Problem");
 
 let numbers = [];
 
