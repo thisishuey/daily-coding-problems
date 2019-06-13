@@ -25,4 +25,3 @@ for (let number of numbers) {
 }
 
 console.log(solved);
-return solved;
