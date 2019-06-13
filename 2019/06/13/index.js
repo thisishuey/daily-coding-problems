@@ -7,6 +7,7 @@ let numbers = [];
 try {
   numbers = JSON.parse(process.argv[2]);
 } catch (exception) {
+  console.error("Please provide an array of numbers.");
   console.error(exception);
 }
 
